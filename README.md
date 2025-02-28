@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**6** solved · 5 problems · 1 labs · 0 math
+**10** solved · 9 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,10 +12,14 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Calculate Cosine Similarity Between Vectors](https://www.deep-ml.com/problems/76) | easy | 2025-02-28 | [solution](problems/0076-calculate-cosine-similarity-between-vectors) |
+| [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2025-02-28 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
+| [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2025-02-28 | [solution](problems/0083-dot-product-calculator) |
 | [Exact Match Score with Normalization](https://www.deep-ml.com/problems/325) | easy | 2026-10-01 | [solution](problems/0325-exact-match-score-with-normalization) |
 | [Implement Ridge Regression Loss Function](https://www.deep-ml.com/problems/43) | easy | 2026-09-30 | [solution](problems/0043-implement-ridge-regression-loss-function) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2025-02-19 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Top-K Largest Elements in a List](https://www.deep-ml.com/problems/1137) | easy | 2026-10-01 | [solution](problems/1137-top-k-largest-elements-in-a-list) |
+| [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2025-02-28 | [solution](problems/0002-transpose-of-a-matrix) |
 | [SGD with Momentum Step](https://www.deep-ml.com/problems/1235) | medium | 2026-10-01 | [solution](problems/1235-sgd-with-momentum-step) |
 
 ## Labs

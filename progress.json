@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T15:09:40.718Z",
+  "generated_at": "2026-10-20T15:09:43.098Z",
   "items": {
     "problem:43": {
       "kind": "problem",
@@ -78,6 +78,58 @@
       "last_pushed_at": "2025-02-19T19:46:15.158Z",
       "language": "python",
       "lines": 11
+    },
+    "problem:2": {
+      "kind": "problem",
+      "id": "2",
+      "title": "Transpose of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/2",
+      "path": "problems/0002-transpose-of-a-matrix",
+      "first_solved_at": "2025-02-28T17:11:19.125Z",
+      "last_pushed_at": "2025-02-28T17:11:19.125Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:35": {
+      "kind": "problem",
+      "id": "35",
+      "title": "Convert Vector to Diagonal Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/35",
+      "path": "problems/0035-convert-vector-to-diagonal-matrix",
+      "first_solved_at": "2025-02-28T17:13:34.658Z",
+      "last_pushed_at": "2025-02-28T17:13:34.658Z",
+      "language": "python",
+      "lines": 4
+    },
+    "problem:83": {
+      "kind": "problem",
+      "id": "83",
+      "title": "Dot Product Calculator",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/83",
+      "path": "problems/0083-dot-product-calculator",
+      "first_solved_at": "2025-02-28T17:22:14.018Z",
+      "last_pushed_at": "2025-02-28T17:22:14.018Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:76": {
+      "kind": "problem",
+      "id": "76",
+      "title": "Calculate Cosine Similarity Between Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/76",
+      "path": "problems/0076-calculate-cosine-similarity-between-vectors",
+      "first_solved_at": "2025-02-28T17:54:13.921Z",
+      "last_pushed_at": "2025-02-28T17:54:13.921Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }
