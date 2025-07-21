@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T15:09:47.166Z",
+  "generated_at": "2026-10-20T15:09:49.148Z",
   "items": {
     "problem:43": {
       "kind": "problem",
@@ -156,6 +156,71 @@
       "last_pushed_at": "2025-04-07T20:43:25.296Z",
       "language": "python",
       "lines": 14
+    },
+    "problem:5": {
+      "kind": "problem",
+      "id": "5",
+      "title": "Scalar Multiplication of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/5",
+      "path": "problems/0005-scalar-multiplication-of-a-matrix",
+      "first_solved_at": "2025-07-21T14:21:32.785Z",
+      "last_pushed_at": "2025-07-21T14:21:32.785Z",
+      "language": "python",
+      "lines": 3
+    },
+    "problem:6": {
+      "kind": "problem",
+      "id": "6",
+      "title": "Calculate Eigenvalues of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/6",
+      "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
+      "first_solved_at": "2025-07-21T15:34:17.407Z",
+      "last_pushed_at": "2025-07-21T15:34:17.407Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:8": {
+      "kind": "problem",
+      "id": "8",
+      "title": "Calculate 2x2 Matrix Inverse",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/8",
+      "path": "problems/0008-calculate-2x2-matrix-inverse",
+      "first_solved_at": "2025-07-21T15:53:17.586Z",
+      "last_pushed_at": "2025-07-21T15:53:17.586Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:9": {
+      "kind": "problem",
+      "id": "9",
+      "title": "Matrix times Matrix ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/9",
+      "path": "problems/0009-matrix-times-matrix",
+      "first_solved_at": "2025-07-21T16:37:11.081Z",
+      "last_pushed_at": "2025-07-21T16:37:11.081Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:14": {
+      "kind": "problem",
+      "id": "14",
+      "title": "Linear Regression Using Normal Equation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/14",
+      "path": "problems/0014-linear-regression-using-normal-equation",
+      "first_solved_at": "2025-07-21T17:37:03.429Z",
+      "last_pushed_at": "2025-07-21T17:37:03.429Z",
+      "language": "python",
+      "lines": 12
     }
   }
 }
