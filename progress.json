@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T15:09:49.148Z",
+  "generated_at": "2026-10-20T15:09:52.094Z",
   "items": {
     "problem:43": {
       "kind": "problem",
@@ -221,6 +221,71 @@
       "last_pushed_at": "2025-07-21T17:37:03.429Z",
       "language": "python",
       "lines": 12
+    },
+    "problem:22": {
+      "kind": "problem",
+      "id": "22",
+      "title": "Sigmoid Activation Function Understanding",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/22",
+      "path": "problems/0022-sigmoid-activation-function-understanding",
+      "first_solved_at": "2025-08-29T00:16:45.318Z",
+      "last_pushed_at": "2025-08-29T00:16:45.318Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:23": {
+      "kind": "problem",
+      "id": "23",
+      "title": "Softmax Activation Function Implementation ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/23",
+      "path": "problems/0023-softmax-activation-function-implementation",
+      "first_solved_at": "2025-08-29T00:21:30.417Z",
+      "last_pushed_at": "2025-08-29T00:21:30.417Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:81": {
+      "kind": "problem",
+      "id": "81",
+      "title": "Poisson Distribution Probability Calculator",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/81",
+      "path": "problems/0081-poisson-distribution-probability-calculator",
+      "first_solved_at": "2025-08-29T16:21:51.239Z",
+      "last_pushed_at": "2025-08-29T16:21:51.239Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:80": {
+      "kind": "problem",
+      "id": "80",
+      "title": "Normal Distribution PDF Calculator",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/80",
+      "path": "problems/0080-normal-distribution-pdf-calculator",
+      "first_solved_at": "2025-08-29T18:21:41.898Z",
+      "last_pushed_at": "2025-08-29T18:21:41.898Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:44": {
+      "kind": "problem",
+      "id": "44",
+      "title": "Leaky ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/44",
+      "path": "problems/0044-leaky-relu-activation-function",
+      "first_solved_at": "2025-08-29T21:36:35.216Z",
+      "last_pushed_at": "2025-08-29T21:36:35.216Z",
+      "language": "python",
+      "lines": 4
     }
   }
 }
