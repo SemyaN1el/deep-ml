@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T15:09:54.385Z",
+  "generated_at": "2026-10-20T15:09:56.447Z",
   "items": {
     "problem:43": {
       "kind": "problem",
@@ -312,6 +312,136 @@
       "last_pushed_at": "2025-09-07T22:29:26.822Z",
       "language": "python",
       "lines": 8
+    },
+    "problem:18": {
+      "kind": "problem",
+      "id": "18",
+      "title": "Implement K-Fold Cross-Validation",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/18",
+      "path": "problems/0018-implement-k-fold-cross-validation",
+      "first_solved_at": "2025-09-08T16:39:48.706Z",
+      "last_pushed_at": "2025-09-08T16:39:48.706Z",
+      "language": "python",
+      "lines": 27
+    },
+    "problem:121": {
+      "kind": "problem",
+      "id": "121",
+      "title": "Vector Element-wise Sum",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/121",
+      "path": "problems/0121-vector-element-wise-sum",
+      "first_solved_at": "2025-09-08T16:41:38.165Z",
+      "last_pushed_at": "2025-09-08T16:41:38.165Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:15": {
+      "kind": "problem",
+      "id": "15",
+      "title": "Linear Regression Using Gradient Descent",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/15",
+      "path": "problems/0015-linear-regression-using-gradient-descent",
+      "first_solved_at": "2025-09-08T17:22:56.245Z",
+      "last_pushed_at": "2025-09-08T17:22:56.245Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:36": {
+      "kind": "problem",
+      "id": "36",
+      "title": "Calculate Accuracy Score",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/36",
+      "path": "problems/0036-calculate-accuracy-score",
+      "first_solved_at": "2025-09-08T18:09:14.065Z",
+      "last_pushed_at": "2025-09-08T18:09:14.065Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:71": {
+      "kind": "problem",
+      "id": "71",
+      "title": "Calculate Root Mean Square Error (RMSE)",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/71",
+      "path": "problems/0071-calculate-root-mean-square-error-rmse",
+      "first_solved_at": "2025-09-08T18:23:11.330Z",
+      "last_pushed_at": "2025-09-08T18:23:11.330Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:93": {
+      "kind": "problem",
+      "id": "93",
+      "title": "Calculate Mean Absolute Error (MAE)",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/93",
+      "path": "problems/0093-calculate-mean-absolute-error-mae",
+      "first_solved_at": "2025-09-08T18:26:43.772Z",
+      "last_pushed_at": "2025-09-08T18:26:43.772Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:46": {
+      "kind": "problem",
+      "id": "46",
+      "title": "Implement Precision Metric",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/46",
+      "path": "problems/0046-implement-precision-metric",
+      "first_solved_at": "2025-09-08T18:28:35.127Z",
+      "last_pushed_at": "2025-09-08T18:28:35.127Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:86": {
+      "kind": "problem",
+      "id": "86",
+      "title": "Detect Overfitting or Underfitting",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/86",
+      "path": "problems/0086-detect-overfitting-or-underfitting",
+      "first_solved_at": "2025-09-08T18:35:41.784Z",
+      "last_pushed_at": "2025-09-08T18:35:41.784Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:91": {
+      "kind": "problem",
+      "id": "91",
+      "title": "Calculate F1 Score from Predicted and True Labels",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/91",
+      "path": "problems/0091-calculate-f1-score-from-predicted-and-true-labels",
+      "first_solved_at": "2025-09-08T21:58:40.678Z",
+      "last_pushed_at": "2025-09-08T21:58:40.678Z",
+      "language": "python",
+      "lines": 28
+    },
+    "problem:154": {
+      "kind": "problem",
+      "id": "154",
+      "title": "ExponentialLR Learning Rate Scheduler",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/154",
+      "path": "problems/0154-exponentiallr-learning-rate-scheduler",
+      "first_solved_at": "2025-09-08T22:01:29.562Z",
+      "last_pushed_at": "2025-09-08T22:01:29.562Z",
+      "language": "python",
+      "lines": 10
     }
   }
 }
