@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**37** solved · 36 problems · 1 labs · 0 math
+**38** solved · 37 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -44,6 +44,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2025-02-28 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2025-09-08 | [solution](problems/0121-vector-element-wise-sum) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2025-07-21 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
+| [Generate Random Subsets of a Dataset](https://www.deep-ml.com/problems/33) | medium | 2025-09-16 | [solution](problems/0033-generate-random-subsets-of-a-dataset) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2025-09-08 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2025-07-21 | [solution](problems/0009-matrix-times-matrix) |
 | [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2025-08-29 | [solution](problems/0080-normal-distribution-pdf-calculator) |
