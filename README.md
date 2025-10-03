@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**42** solved · 41 problems · 1 labs · 0 math
+**43** solved · 42 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -42,6 +42,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [One-Hot Encoding of Nominal Values](https://www.deep-ml.com/problems/34) | easy | 2025-09-07 | [solution](problems/0034-one-hot-encoding-of-nominal-values) |
 | [Poisson Distribution Probability Calculator](https://www.deep-ml.com/problems/81) | easy | 2025-08-29 | [solution](problems/0081-poisson-distribution-probability-calculator) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2025-07-21 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
+| [Shift and Scale Array to Target Range](https://www.deep-ml.com/problems/141) | easy | 2025-10-03 | [solution](problems/0141-shift-and-scale-array-to-target-range) |
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2025-08-29 | [solution](problems/0022-sigmoid-activation-function-understanding) |
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2025-08-29 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [Top-K Largest Elements in a List](https://www.deep-ml.com/problems/1137) | easy | 2026-10-01 | [solution](problems/1137-top-k-largest-elements-in-a-list) |
