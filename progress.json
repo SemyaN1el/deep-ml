@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T15:10:26.708Z",
+  "generated_at": "2026-10-20T15:10:30.137Z",
   "items": {
     "problem:43": {
       "kind": "problem",
@@ -622,6 +622,32 @@
       "path": "problems/0010-calculate-covariance-matrix",
       "first_solved_at": "2025-10-22T23:12:20.397Z",
       "last_pushed_at": "2025-10-22T23:12:20.397Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:3": {
+      "kind": "problem",
+      "id": "3",
+      "title": "Reshape Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/3",
+      "path": "problems/0003-reshape-matrix",
+      "first_solved_at": "2025-11-01T13:03:18.182Z",
+      "last_pushed_at": "2025-11-01T13:03:18.182Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:39": {
+      "kind": "problem",
+      "id": "39",
+      "title": "Implementation of Log Softmax Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/39",
+      "path": "problems/0039-implementation-of-log-softmax-function",
+      "first_solved_at": "2025-11-01T23:02:40.747Z",
+      "last_pushed_at": "2025-11-01T23:02:40.747Z",
       "language": "python",
       "lines": 6
     }
