@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T15:10:32.291Z",
+  "generated_at": "2026-10-20T15:10:34.371Z",
   "items": {
     "problem:43": {
       "kind": "problem",
@@ -663,6 +663,32 @@
       "last_pushed_at": "2025-11-15T23:04:31.244Z",
       "language": "python",
       "lines": 22
+    },
+    "problem:128": {
+      "kind": "problem",
+      "id": "128",
+      "title": "Dynamic Tanh: Normalization-Free Transformer Activation",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/128",
+      "path": "problems/0128-dynamic-tanh-normalization-free-transformer-activation",
+      "first_solved_at": "2025-11-16T22:34:03.475Z",
+      "last_pushed_at": "2025-11-16T22:34:03.475Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:205": {
+      "kind": "problem",
+      "id": "205",
+      "title": "Entropy & Cross-Entropy",
+      "difficulty": "medium",
+      "category": "Information Theory",
+      "url": "https://www.deep-ml.com/problems/205",
+      "path": "problems/0205-entropy-cross-entropy",
+      "first_solved_at": "2025-11-16T23:58:30.794Z",
+      "last_pushed_at": "2025-11-16T23:58:30.794Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }

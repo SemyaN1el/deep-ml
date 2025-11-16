@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**51** solved · 50 problems · 1 labs · 0 math
+**53** solved · 52 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -27,6 +27,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2025-10-22 | [solution](problems/0078-descriptive-statistics-calculator) |
 | [Detect Overfitting or Underfitting](https://www.deep-ml.com/problems/86) | easy | 2025-09-08 | [solution](problems/0086-detect-overfitting-or-underfitting) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2025-02-28 | [solution](problems/0083-dot-product-calculator) |
+| [Dynamic Tanh: Normalization-Free Transformer Activation](https://www.deep-ml.com/problems/128) | easy | 2025-11-16 | [solution](problems/0128-dynamic-tanh-normalization-free-transformer-activation) |
 | [Exact Match Score with Normalization](https://www.deep-ml.com/problems/325) | easy | 2026-10-01 | [solution](problems/0325-exact-match-score-with-normalization) |
 | [ExponentialLR Learning Rate Scheduler](https://www.deep-ml.com/problems/154) | easy | 2025-09-08 | [solution](problems/0154-exponentiallr-learning-rate-scheduler) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2025-04-07 | [solution](problems/0016-feature-scaling-implementation) |
@@ -56,6 +57,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2025-10-11 | [solution](problems/0087-adam-optimizer) |
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2025-10-06 | [solution](problems/0079-binomial-distribution-probability) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2025-07-21 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
+| [Entropy & Cross-Entropy](https://www.deep-ml.com/problems/205) | medium | 2025-11-16 | [solution](problems/0205-entropy-cross-entropy) |
 | [Generate Random Subsets of a Dataset](https://www.deep-ml.com/problems/33) | medium | 2025-09-16 | [solution](problems/0033-generate-random-subsets-of-a-dataset) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2025-09-08 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2025-07-21 | [solution](problems/0009-matrix-times-matrix) |
