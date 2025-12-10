@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**53** solved · 52 problems · 1 labs · 0 math
+**54** solved · 53 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -64,6 +64,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2025-08-29 | [solution](problems/0080-normal-distribution-pdf-calculator) |
 | [SGD with Momentum Step](https://www.deep-ml.com/problems/1235) | medium | 2026-10-01 | [solution](problems/1235-sgd-with-momentum-step) |
 | [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2025-11-15 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |
+| [Implement the Conjugate Gradient Method for Solving Linear Systems](https://www.deep-ml.com/problems/63) | hard | 2025-12-10 | [solution](problems/0063-implement-the-conjugate-gradient-method-for-solving-linear-systems) |
 
 ## Labs
 
