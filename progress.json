@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T11:27:56.008Z",
+  "generated_at": "2026-10-01T16:52:06.926Z",
   "items": {
     "problem:43": {
       "kind": "problem",
@@ -39,6 +39,19 @@
       "last_pushed_at": "2026-10-01T11:27:26.847Z",
       "language": "python",
       "lines": 32
+    },
+    "lab:29": {
+      "kind": "lab",
+      "id": "29",
+      "title": "Fine-Tune DistilGPT2 on TinyStories",
+      "difficulty": "hard",
+      "category": "LLM Fine-Tuning",
+      "url": "https://www.deep-ml.com/labs/29",
+      "path": "labs/0029-fine-tune-distilgpt2-on-tinystories",
+      "first_solved_at": "2026-10-01T16:51:37.398Z",
+      "last_pushed_at": "2026-10-01T16:51:37.398Z",
+      "language": "python",
+      "lines": 106
     }
   }
 }
