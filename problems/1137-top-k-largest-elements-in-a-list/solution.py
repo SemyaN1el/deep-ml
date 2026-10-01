@@ -3,13 +3,15 @@ import heapq
 def top_three_largest(values):
     # values: list of numbers
     # return the three largest values in descending order
-    heap = []
+    first = second = third = float('-inf')
 
-    for value in values:
-        if len(heap) < 3:
-            heapq.heappush(heap, value)
-        elif value > heap[0]:
-            heapq.heappop(heap)
-            heapq.heappush(heap,value)
+    for value in values: 
+        if value >= first: 
+            first, second, third = value, first, second  
+        elif value >= second:
+            second, third = value, second 
+        elif value > third:
+            third = value 
+    return [first, second, third][:len(values)]
 
-    return sorted(heap, reverse=True)
+    
