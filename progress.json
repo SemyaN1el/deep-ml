@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T08:47:58.406Z",
+  "generated_at": "2026-10-01T11:22:14.364Z",
   "items": {
     "problem:43": {
       "kind": "problem",
@@ -26,6 +26,19 @@
       "last_pushed_at": "2026-10-01T08:47:28.747Z",
       "language": "python",
       "lines": 22
+    },
+    "problem:325": {
+      "kind": "problem",
+      "id": "325",
+      "title": "Exact Match Score with Normalization",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/325",
+      "path": "problems/0325-exact-match-score-with-normalization",
+      "first_solved_at": "2026-10-01T11:21:45.159Z",
+      "last_pushed_at": "2026-10-01T11:21:45.159Z",
+      "language": "python",
+      "lines": 24
     }
   }
 }
