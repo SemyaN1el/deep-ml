@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T21:33:58.210Z",
+  "generated_at": "2026-10-28T22:09:02.036Z",
   "items": {
     "problem:43": {
       "kind": "problem",
@@ -832,6 +832,19 @@
       "last_pushed_at": "2026-10-28T21:33:32.998Z",
       "language": "python",
       "lines": 6
+    },
+    "problem:893": {
+      "kind": "problem",
+      "id": "893",
+      "title": "Compute a Gradient with Tinygrad Autograd",
+      "difficulty": "easy",
+      "category": "Tinygrad",
+      "url": "https://www.deep-ml.com/problems/893",
+      "path": "problems/0893-compute-a-gradient-with-tinygrad-autograd",
+      "first_solved_at": "2026-10-28T22:08:36.942Z",
+      "last_pushed_at": "2026-10-28T22:08:36.942Z",
+      "language": "python",
+      "lines": 11
     }
   }
 }
