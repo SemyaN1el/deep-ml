@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**66** solved · 64 problems · 2 labs · 0 math
+**67** solved · 64 problems · 2 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -83,6 +83,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [PyTorch: Build a Complete Training Loop](https://www.deep-ml.com/labs/13) | easy | 2026-10-28 | [solution](labs/0013-pytorch-build-a-complete-training-loop) |
 | [Fine-Tune DistilGPT2 on TinyStories](https://www.deep-ml.com/labs/29) | hard | 2026-10-01 | [solution](labs/0029-fine-tune-distilgpt2-on-tinystories) |
+
+## Math
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Adam Bias Correction](https://www.deep-ml.com/math-problems/132) | medium | 2026-10-28 | [solution](math/0132-adam-bias-correction) |
 
 ---
 
