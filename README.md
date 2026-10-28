@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**57** solved · 56 problems · 1 labs · 0 math
+**58** solved · 57 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -23,6 +23,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2025-03-25 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Calculate Root Mean Square Error (RMSE)](https://www.deep-ml.com/problems/71) | easy | 2025-09-08 | [solution](problems/0071-calculate-root-mean-square-error-rmse) |
 | [Calculate Unigram Probability from Corpus](https://www.deep-ml.com/problems/129) | easy | 2025-09-25 | [solution](problems/0129-calculate-unigram-probability-from-corpus) |
+| [Compute a Gradient with PyTorch Autograd](https://www.deep-ml.com/problems/884) | easy | 2026-10-28 | [solution](problems/0884-compute-a-gradient-with-pytorch-autograd) |
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2025-02-28 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
 | [Create a Float Tensor from a Python List](https://www.deep-ml.com/problems/880) | easy | 2026-10-27 | [solution](problems/0880-create-a-float-tensor-from-a-python-list) |
 | [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2025-10-22 | [solution](problems/0078-descriptive-statistics-calculator) |
