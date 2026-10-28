@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**65** solved · 63 problems · 2 labs · 0 math
+**66** solved · 64 problems · 2 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -64,6 +64,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Top-K Largest Elements in a List](https://www.deep-ml.com/problems/1137) | easy | 2026-10-01 | [solution](problems/1137-top-k-largest-elements-in-a-list) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2025-02-28 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2025-09-08 | [solution](problems/0121-vector-element-wise-sum) |
+| [Your First Gradient with jax.grad](https://www.deep-ml.com/problems/1325) | easy | 2026-10-28 | [solution](problems/1325-your-first-gradient-with-jax-grad) |
 | [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2025-10-11 | [solution](problems/0087-adam-optimizer) |
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2025-10-06 | [solution](problems/0079-binomial-distribution-probability) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2025-07-21 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
