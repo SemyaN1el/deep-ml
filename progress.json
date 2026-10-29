@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T13:08:07.226Z",
+  "generated_at": "2026-10-29T13:54:09.664Z",
   "items": {
     "problem:43": {
       "kind": "problem",
@@ -904,6 +904,17 @@
       "path": "math/0134-scaled-dot-product-variance-why-divide-by-the-square-root-of-d",
       "first_solved_at": "2026-10-29T13:07:41.168Z",
       "last_pushed_at": "2026-10-29T13:07:41.168Z"
+    },
+    "math:231": {
+      "kind": "math",
+      "id": "231",
+      "title": "Multi-Head Attention: Parameters and FLOPs per Layer",
+      "difficulty": "medium",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/231",
+      "path": "math/0231-multi-head-attention-parameters-and-flops-per-layer",
+      "first_solved_at": "2026-10-29T13:53:43.534Z",
+      "last_pushed_at": "2026-10-29T13:53:43.534Z"
     }
   }
 }

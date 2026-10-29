@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**70** solved · 65 problems · 2 labs · 3 math
+**71** solved · 65 problems · 2 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -91,6 +91,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Attention as a Soft Dictionary Lookup](https://www.deep-ml.com/math-problems/133) | easy | 2026-10-29 | [solution](math/0133-attention-as-a-soft-dictionary-lookup) |
 | [Adam Bias Correction](https://www.deep-ml.com/math-problems/132) | medium | 2026-10-28 | [solution](math/0132-adam-bias-correction) |
+| [Multi-Head Attention: Parameters and FLOPs per Layer](https://www.deep-ml.com/math-problems/231) | medium | 2026-10-29 | [solution](math/0231-multi-head-attention-parameters-and-flops-per-layer) |
 | [Scaled Dot-Product Variance: Why Divide by the Square Root of d](https://www.deep-ml.com/math-problems/134) | medium | 2026-10-29 | [solution](math/0134-scaled-dot-product-variance-why-divide-by-the-square-root-of-d) |
 
 ---
