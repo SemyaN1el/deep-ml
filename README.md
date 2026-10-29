@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**71** solved · 65 problems · 2 labs · 4 math
+**72** solved · 66 problems · 2 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -72,6 +72,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Entropy & Cross-Entropy](https://www.deep-ml.com/problems/205) | medium | 2025-11-16 | [solution](problems/0205-entropy-cross-entropy) |
 | [Generate Random Subsets of a Dataset](https://www.deep-ml.com/problems/33) | medium | 2025-09-16 | [solution](problems/0033-generate-random-subsets-of-a-dataset) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2025-09-08 | [solution](problems/0018-implement-k-fold-cross-validation) |
+| [Implement Masked Self-Attention](https://www.deep-ml.com/problems/107) | medium | 2026-10-29 | [solution](problems/0107-implement-masked-self-attention) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2025-07-21 | [solution](problems/0009-matrix-times-matrix) |
 | [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2025-08-29 | [solution](problems/0080-normal-distribution-pdf-calculator) |
 | [SGD with Momentum Step](https://www.deep-ml.com/problems/1235) | medium | 2026-10-01 | [solution](problems/1235-sgd-with-momentum-step) |

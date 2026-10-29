@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T13:54:09.664Z",
+  "generated_at": "2026-10-29T14:12:23.462Z",
   "items": {
     "problem:43": {
       "kind": "problem",
@@ -915,6 +915,19 @@
       "path": "math/0231-multi-head-attention-parameters-and-flops-per-layer",
       "first_solved_at": "2026-10-29T13:53:43.534Z",
       "last_pushed_at": "2026-10-29T13:53:43.534Z"
+    },
+    "problem:107": {
+      "kind": "problem",
+      "id": "107",
+      "title": "Implement Masked Self-Attention",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/107",
+      "path": "problems/0107-implement-masked-self-attention",
+      "first_solved_at": "2026-10-29T14:11:57.149Z",
+      "last_pushed_at": "2026-10-29T14:11:57.149Z",
+      "language": "python",
+      "lines": 22
     }
   }
 }
