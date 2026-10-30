@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T18:55:11.536Z",
+  "generated_at": "2026-10-30T13:00:00.090Z",
   "items": {
     "problem:43": {
       "kind": "problem",
@@ -954,6 +954,19 @@
       "last_pushed_at": "2026-10-29T18:54:44.073Z",
       "language": "python",
       "lines": 35
+    },
+    "problem:940": {
+      "kind": "problem",
+      "id": "940",
+      "title": "Regex-Based Text Tokenizer",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/940",
+      "path": "problems/0940-regex-based-text-tokenizer",
+      "first_solved_at": "2026-10-30T12:59:30.548Z",
+      "last_pushed_at": "2026-10-30T12:59:30.548Z",
+      "language": "python",
+      "lines": 12
     }
   }
 }

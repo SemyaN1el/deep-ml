@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**74** solved · 67 problems · 3 labs · 4 math
+**75** solved · 68 problems · 3 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -56,6 +56,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Nesterov Accelerated Gradient Optimizer](https://www.deep-ml.com/problems/150) | easy | 2025-12-15 | [solution](problems/0150-nesterov-accelerated-gradient-optimizer) |
 | [One-Hot Encoding of Nominal Values](https://www.deep-ml.com/problems/34) | easy | 2025-09-07 | [solution](problems/0034-one-hot-encoding-of-nominal-values) |
 | [Poisson Distribution Probability Calculator](https://www.deep-ml.com/problems/81) | easy | 2025-08-29 | [solution](problems/0081-poisson-distribution-probability-calculator) |
+| [Regex-Based Text Tokenizer](https://www.deep-ml.com/problems/940) | easy | 2026-10-30 | [solution](problems/0940-regex-based-text-tokenizer) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2025-11-01 | [solution](problems/0003-reshape-matrix) |
 | [Run One Training Step: Forward, Loss, Backward, Optimizer](https://www.deep-ml.com/problems/886) | easy | 2026-10-28 | [solution](problems/0886-run-one-training-step-forward-loss-backward-optimizer) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2025-07-21 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
