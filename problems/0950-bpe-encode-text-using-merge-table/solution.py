@@ -21,13 +21,14 @@ def bpe_encode(text, token_to_id, merges):
         while i < len(tokens):
             pair = (tokens[i], tokens[i+1] if i + 1 < len(tokens) else None)
 
-            if pair == bestPair:
+            if pair == bestPair: 
                 ans.append(bestId)
                 i += 2
             else:
                 ans.append(tokens[i])
                 i += 1
         
-        tokens = ans
+        tokens = ans 
+
     
     return tokens 

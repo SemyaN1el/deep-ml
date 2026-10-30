@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T15:18:30.625Z",
+  "generated_at": "2026-10-30T15:28:06.384Z",
   "items": {
     "problem:43": {
       "kind": "problem",
@@ -977,9 +977,9 @@
       "url": "https://www.deep-ml.com/problems/950",
       "path": "problems/0950-bpe-encode-text-using-merge-table",
       "first_solved_at": "2026-10-30T15:18:03.031Z",
-      "last_pushed_at": "2026-10-30T15:18:03.031Z",
+      "last_pushed_at": "2026-10-30T15:27:38.859Z",
       "language": "python",
-      "lines": 34
+      "lines": 35
     }
   }
 }
