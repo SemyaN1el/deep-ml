@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**75** solved · 68 problems · 3 labs · 4 math
+**76** solved · 69 problems · 3 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -69,6 +69,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Your First Gradient with jax.grad](https://www.deep-ml.com/problems/1325) | easy | 2026-10-28 | [solution](problems/1325-your-first-gradient-with-jax-grad) |
 | [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2025-10-11 | [solution](problems/0087-adam-optimizer) |
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2025-10-06 | [solution](problems/0079-binomial-distribution-probability) |
+| [BPE Encode Text Using Merge Table](https://www.deep-ml.com/problems/950) | medium | 2026-10-30 | [solution](problems/0950-bpe-encode-text-using-merge-table) |
 | [Build Scaled Dot-Product Attention](https://www.deep-ml.com/problems/490) | medium | 2026-10-29 | [solution](problems/0490-build-scaled-dot-product-attention) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2025-07-21 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Entropy & Cross-Entropy](https://www.deep-ml.com/problems/205) | medium | 2025-11-16 | [solution](problems/0205-entropy-cross-entropy) |
