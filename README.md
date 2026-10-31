@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**78** solved · 71 problems · 3 labs · 4 math
+**79** solved · 72 problems · 3 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -64,6 +64,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Shift and Scale Array to Target Range](https://www.deep-ml.com/problems/141) | easy | 2025-10-03 | [solution](problems/0141-shift-and-scale-array-to-target-range) |
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2025-08-29 | [solution](problems/0022-sigmoid-activation-function-understanding) |
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2025-08-29 | [solution](problems/0023-softmax-activation-function-implementation) |
+| [Token Embedding Lookup Table](https://www.deep-ml.com/problems/945) | easy | 2026-10-31 | [solution](problems/0945-token-embedding-lookup-table) |
 | [Top-K Largest Elements in a List](https://www.deep-ml.com/problems/1137) | easy | 2026-10-01 | [solution](problems/1137-top-k-largest-elements-in-a-list) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2025-02-28 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2025-09-08 | [solution](problems/0121-vector-element-wise-sum) |
