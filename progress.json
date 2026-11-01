@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T17:31:32.999Z",
+  "generated_at": "2026-11-01T17:58:10.322Z",
   "items": {
     "problem:43": {
       "kind": "problem",
@@ -1043,6 +1043,19 @@
       "path": "math/0164-perplexity-as-exponentiated-cross-entropy",
       "first_solved_at": "2026-11-01T17:31:02.458Z",
       "last_pushed_at": "2026-11-01T17:31:02.458Z"
+    },
+    "problem:983": {
+      "kind": "problem",
+      "id": "983",
+      "title": "Build Bigram Count Matrix from Words",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/983",
+      "path": "problems/0983-build-bigram-count-matrix-from-words",
+      "first_solved_at": "2026-11-01T17:57:39.874Z",
+      "last_pushed_at": "2026-11-01T17:57:39.874Z",
+      "language": "python",
+      "lines": 19
     }
   }
 }
