@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**79** solved · 72 problems · 3 labs · 4 math
+**80** solved · 73 problems · 3 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -29,6 +29,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Unigram Probability from Corpus](https://www.deep-ml.com/problems/129) | easy | 2025-09-25 | [solution](problems/0129-calculate-unigram-probability-from-corpus) |
 | [Compute a Gradient with PyTorch Autograd](https://www.deep-ml.com/problems/884) | easy | 2026-10-28 | [solution](problems/0884-compute-a-gradient-with-pytorch-autograd) |
 | [Compute a Gradient with Tinygrad Autograd](https://www.deep-ml.com/problems/893) | easy | 2026-10-28 | [solution](problems/0893-compute-a-gradient-with-tinygrad-autograd) |
+| [Construct Next-Token Prediction Targets](https://www.deep-ml.com/problems/954) | easy | 2026-11-01 | [solution](problems/0954-construct-next-token-prediction-targets) |
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2025-02-28 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
 | [Create a Float Tensor from a Python List](https://www.deep-ml.com/problems/880) | easy | 2026-10-27 | [solution](problems/0880-create-a-float-tensor-from-a-python-list) |
 | [Create a Float Tensor with Tinygrad](https://www.deep-ml.com/problems/889) | easy | 2026-10-28 | [solution](problems/0889-create-a-float-tensor-with-tinygrad) |
