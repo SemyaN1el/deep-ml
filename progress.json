@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T21:03:56.532Z",
+  "generated_at": "2026-11-02T14:33:23.901Z",
   "items": {
     "problem:43": {
       "kind": "problem",
@@ -1069,6 +1069,19 @@
       "last_pushed_at": "2026-11-01T21:03:26.008Z",
       "language": "python",
       "lines": 38
+    },
+    "problem:918": {
+      "kind": "problem",
+      "id": "918",
+      "title": "Build a Tiny GPT",
+      "difficulty": "hard",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/918",
+      "path": "problems/0918-build-a-tiny-gpt",
+      "first_solved_at": "2026-11-02T14:32:52.137Z",
+      "last_pushed_at": "2026-11-02T14:32:52.137Z",
+      "language": "python",
+      "lines": 28
     }
   }
 }
