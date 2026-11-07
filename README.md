@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**84** solved · 76 problems · 3 labs · 5 math
+**85** solved · 77 problems · 3 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -87,6 +87,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Train Bigram Language Model as a Neural Network](https://www.deep-ml.com/problems/988) | medium | 2026-11-01 | [solution](problems/0988-train-bigram-language-model-as-a-neural-network) |
 | [Build a Tiny GPT](https://www.deep-ml.com/problems/918) | hard | 2026-11-02 | [solution](problems/0918-build-a-tiny-gpt) |
 | [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2025-11-15 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |
+| [GPT-2 Text Generation](https://www.deep-ml.com/problems/88) | hard | 2026-11-07 | [solution](problems/0088-gpt-2-text-generation) |
 | [Implement the Conjugate Gradient Method for Solving Linear Systems](https://www.deep-ml.com/problems/63) | hard | 2025-12-10 | [solution](problems/0063-implement-the-conjugate-gradient-method-for-solving-linear-systems) |
 
 ## Labs
